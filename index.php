@@ -42,15 +42,45 @@
     </p>
   </div>
 
-  <div class="card-group">
-    <div class="card">
-      <img class="card-img-top" src="style/image/card_blog.png" alt="Card image cap" />
+  <div class="container">
+    <div class="row">
+      <div class="column-66">
+        <h1 class="xlarge-font"><b>Astral Spoon</b></h1>
+        <h1 class="large-font" style="color: MediumSeaGreen">
+          <b>Javascript / PHP / SQL / HTML / CSS</b>
+        </h1>
+        <p>
+          <span style="font-size: 36px">Autocompletion</span> Réalisation
+          d'un moteur de recherche avec une autocomplétion, une page présentant une liste d'élement correspondant a la recherche et une page présentant un élement rechercher
+        </p>
+        <button class="button" onclick="window.open('https://dorian-palace.students-laplateforme.io/autocompletion/');" type="button">
+          Lien Astral Spoon
+        </button>
+      </div>
+      <div class="column-33">
+        <img src="style/image/astral.png" width="335" height="471" />
+      </div>
     </div>
-    <div class="card">
-      <img class="card-img-top" src="style/image/card_resa.png" alt="Card image cap" />
-    </div>
-    <div class="card">
-      <img class="card-img-top" src="style/image/card_cms.png" alt="Card image cap" />
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="column-33">
+        <img src="style/image/Capture d’écran 2022-05-04 à 17.48.28.png" alt="App" width="335" height="471" />
+      </div>
+      <div class="column-66">
+        <h1 class="xlarge-font"><b>Pasta di Giovanni</b></h1>
+        <h1 class="large-font" style="color: MediumSeaGreen">
+          <b>PHP / SQL / HTML / CSS / BOOTSTRAP</b>
+        </h1>
+        <p>
+          <span style="font-size: 24px">Boutique en ligne</span>
+          Mise en avant des produits, gestion du profil utilisateur (informations, historique d’achat, panel admin, barre de recherche, panier
+        </p>
+        <button class="button" onclick="window.open('https://dorian-palace.students-laplateforme.io/boutique/index.php');" type="button">
+          Lien réservation-salle
+        </button>
+      </div>
     </div>
   </div>
 
